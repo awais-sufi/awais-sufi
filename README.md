@@ -23,7 +23,6 @@ I want to be an interesting person and create something that can be remembered b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais-sufi&layout=compact&langs_count=10&theme=radical" />
 </p>
 
-[![Awais's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=awais-sufi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🚀 Tech Stack
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
