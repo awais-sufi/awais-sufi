@@ -11,13 +11,6 @@ I want to be an interesting person and create something that can be remembered b
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺
 - 💬 Be free to ask me about anything here. awais6javaid@gmail.com
 
-<div align="center">
-  
-### 📈 GitHub Stats Badges
-![Profile Views](https://komarev.com/ghpvc/?username=awais-sufi&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/awais-sufi?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/awais-sufi?style=for-the-badge)
-</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=awais-sufi&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais-sufi&layout=compact&langs_count=10&theme=radical" />
