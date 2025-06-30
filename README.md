@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Awais Ali 
+# 👋 Hello, I'm Awais Ali
 
 I'm a passionate **Full-Stack Developer** specialized in building modern web and mobile apps using cutting-edge technologies like **Next.js**, **React Native**, and **MongoDB**. I love creating fast, responsive, and user-friendly digital experiences. 
 
