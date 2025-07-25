@@ -13,9 +13,12 @@ I want to be an interesting person and create something that can be remembered b
 
 ## 📊 GitHub Stats
 
-<p>
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=awais-sufi&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=awais-sufi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais-sufi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🚀 Tech Stack
