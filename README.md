@@ -7,7 +7,7 @@ I am a learning bachlor student from Pakistan.I like open source and all interes
 
 I want to be an interesting person and create something that can be remembered by others.
 
-- 🌱 I’m currently learning Computer Programming in JavaScript, MERN, React Native and want to learn everything interesting.
+- 🌱 I’m currently learning Computer Programming in JavaScript, MERN, React Native and want to learn everything interesting
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺
 - 💬 Be free to ask me about anything here. awais6javaid@gmail.com
 
