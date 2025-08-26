@@ -11,12 +11,6 @@ I want to be an interesting person and create something that can be remembered b
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺
 - 💬 Be free to ask me about anything here. awais6javaid@gmail.com
 
-## 📊 GitHub Stats
-
-<p align="start">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awais-sufi&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 💡 Currently Exploring
 
 - React Native CLI performance & optimization  
