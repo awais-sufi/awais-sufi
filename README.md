@@ -10,12 +10,5 @@ I want to be an interesting person and create something that can be remembered b
 - 🌱 I’m currently learning Computer Programming in JavaScript, MERN, React Native and want to learn everything interesting.
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺
 - 💬 Be free to ask me about anything here. awais6javaid@gmail.com
-
-## 💡 Currently Exploring
-
-- React Native CLI performance & optimization  
-- Firebase Auth & secure Firestore rules  
-- Clean code architecture in large-scale apps  
-- TypeScript + GraphQL
-
+- 
 If you like me or my projects You can follow me to find something more interesting.
