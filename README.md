@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Awais Ali
 
-I'm a passionate **Full-Stack Developer** specialized in building modern web and mobile apps using cutting-edge technologies like **Next.js**, **React Native**, and **MongoDB**. I love creating fast, responsive, and user-friendly digital experiences. 
+I'm a passionate **Full-Stack Developer** specialized in building modern web and mobile apps using cutting-edge technologies like **Next.js**, **React Native**, and **MongoDB**. I love creating fast, responsive, and user-friendly digital experiences.
 
 I am a learning bachlor student from Pakistan.I like open source and all interesting things and want to try to do it.
 
