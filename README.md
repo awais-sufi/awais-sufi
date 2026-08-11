@@ -1,20 +1,33 @@
-# 👋 Hello, I'm Awais Ali.
+# 👋 Hi, I'm Awais Ali
 
-I'm a passionate **Full-Stack Developer** specialized in building modern web and mobile apps using cutting-edge technologies like **Next.js**, **React Native**, and **MongoDB**. I love creating fast, responsive, and user-friendly digital experiences.
+**Software Engineer · Full-Stack Developer · AI/ML Enthusiast**
 
-I like open source and all interesting things and want to try to do it.
+I build modern **web & mobile applications** and enjoy exploring **AI, Machine Learning, and open source**.
 
-I want to be an interesting person and create something that can be remembered by others.
+```text
+🚀 Full-Stack Development
+🤖 AI & Machine Learning
+📱 Web & Mobile Applications
+🌍 Open Source & GitHub
+```
 
-- 🌱 I’m currently learning Computer Programming in JavaScript, MERN, React Native and want to learn everything interesting.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺
-- 💬 Be free to ask me about anything here. awais6javaid@gmail.com
-  
-If you like me or my projects You can follow me to find something more interesting.
+### 🛠️ Tech Stack
 
-## 📜 Certificates
+**Frontend:** React · Next.js · React Native · TypeScript · JavaScript
+**Backend:** Node.js · NestJS · Express.js
+**Database:** MongoDB · PostgreSQL · Supabase
+**AI/ML:** Python · Pandas · NumPy · Scikit-learn
+**Tools:** Git · GitHub · Docker · Linux · Nginx
 
-Here are some of my achievements and certifications:
+### 🌱 Currently
 
-- **Claude Code in Action** – [View Certificate](https://www.dropbox.com/scl/fi/k346wufntsr0uwenmcz0s/Awais_Ali-certificate-Claude-code-in-action.pdf?rlkey=x63o3qq1fpvrbi6fk05eyh60k&st=513rh7ob&dl=0) (Anthropic: AI company behind Claude)
-- **Cybersecurity Essentials** – [View Certificate](https://www.dropbox.com/scl/fi/kq1dcnf93f34sxsbcwsd3/AwaisSufi-Information-Secu-certificate.pdf?rlkey=gnvcj71jve0pliy3lm9xb5q5l&st=7wiqznmt&dl=0) (Cisco Networking Academy)
+Learning, building, experimenting, and trying to create things worth remembering.
+
+> **“Programs must be written for people to read, and only incidentally for machines to execute.”**
+> — Harold Abelson & Gerald Jay Sussman
+
+### 📫 Connect
+
+**Email:** [awais6javaid@gmail.com](mailto:awais6javaid@gmail.com)
+
+⭐ If you find something interesting here, feel free to follow along.
